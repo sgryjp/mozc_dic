@@ -6,6 +6,8 @@
 
 ゆるく個人的に集めている mozc 用の辞書データです。
 
+- [統計関係の用語集](mozc-dict-statistics.txt)
+
 ## ライセンス
 
 このレポジトリにあるデータは「<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY 4.0 国際</a>」ライセンスの下で提供しています。ご使用されたい場合は、ご自由にどうぞ。
